@@ -1,5 +1,6 @@
 from math import *
 a=0.555
+print('######################################## FUNKCJE MATEMATYCZNE ########################################')
 print('zmienna a= ',a)
 print('po zaokroagleniu poleceniem round() wyglada tak: ', round(a))
 print('to jest pi wypisane dzieki(from math import): ', pi)
